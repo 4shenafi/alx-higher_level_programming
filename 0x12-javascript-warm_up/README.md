@@ -1,6 +1,6 @@
 # JavaScript Warm Up
 
-This repository contains a series of JavaScript scripts designed to help you warm up with basic JavaScript concepts. Each script addresses a specific task and is stored in the `0x12-javascript-warm_up` directory. Below is a brief overview of each task.
+This directory contains a series of JavaScript scripts designed to help you warm up with basic JavaScript concepts. Each script addresses a specific task and is stored in the `0x12-javascript-warm_up` directory. Below is a brief overview of each task.
 
 ## Tasks
 
