@@ -2,6 +2,7 @@
 
 import sys
 
+
 def main():
     n = len(sys.argv) - 1
     if n == 0:
@@ -10,9 +11,10 @@ def main():
         print("1 argument:")
     else:
         print(f"{n} arguments:")
-    
+
     for i in range(1, n + 1):
         print(f"{i}: {sys.argv[i]}")
+
 
 if __name__ == "__main__":
     main()
